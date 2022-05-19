@@ -554,11 +554,15 @@ section{
     color: var(--black);
     text-transform: none;
 }
-.footer .box-container .box .payment-img{
-    margin-top: 2rem;
-    height: 3rem;
+.footer .box-container .box .btn{
+    margin-left: 90rem;
+    margin-bottom: -600rem;
 }
-
+.footer .box-container .box .payment-img{
+    margin-top: 8rem;
+    height: 3rem;
+    margin-left: 60rem;
+}
 .footer .credit{
     text-align: center;
     margin-top: 2rem;
