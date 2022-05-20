@@ -627,4 +627,11 @@ section{
     .footer{
         text-align: center;
     }
+    .footer .box-container .box .btn{
+        margin-left: -2rem        
+    }
+    .footer .box-container .box .payment-img{
+        margin-left: -2rem;
+        margin-top: 1rem;
+    }
 }
